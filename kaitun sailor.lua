@@ -11,8 +11,8 @@ getgenv().SailorPieceConfig = getgenv().SailorPieceConfig or {
     Debug            = false,
     Performance = {
         AutoRejoinIfHighRam = 5000,
-        WebhookURL      = "",
-        FPSBoost        = true,
+        WebhookURL      = "https://discord.com/api/webhooks/1489640128463769641/IWV0LxxCuJCDe0e1BSneVKaf-70GniP2BsPEMzbdiU6dWEf8Nrkyeop0ph7Y6TxL62AE",
+        FPSBoost        = false,
         FPSLock         = 10,
     },
     SkillTree = {
